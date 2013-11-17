@@ -92,7 +92,7 @@ class QR_Code extends Plugin {
             // Download-URL
             array("http://software.black-night.org","Software by black-night"),
             # Platzhalter => Kurzbeschreibung
-            array('{QRCode|...}' => $this->lang_admin->getLanguageValue("config_plugin_name")
+            array('{QR_Code|...}' => $this->lang_admin->getLanguageValue("config_plugin_name")
                  )
             );
             return $info;        
