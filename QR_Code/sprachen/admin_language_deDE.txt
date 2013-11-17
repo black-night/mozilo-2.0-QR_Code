@@ -1,0 +1,5 @@
+config_plugin_name              = QR-Code
+config_plugin_desc              = Erstellt einen QR-Code.<br /><br />Basiert auf PHP QR Code (http://phpqrcode.sourceforge.net/)<br /><br /><span style="font-weight:bold;">Nutzung:</span><br />{QR_Code|http://www.mozilo.de} fügt QR-Code mit Link auf mozilo.de ein<br />
+config_correction_level         = Fehlerkorrektur
+config_number_regex_error       = nur Zahlen erlaubt!
+config_size                     = Größe
